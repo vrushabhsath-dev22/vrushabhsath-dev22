@@ -1,173 +1,604 @@
-# Hi 👋, I'm Sathawara Vrushabh
+<!-- ========================================================= -->
 
-### 🚀 Java | Spring Boot | Full-Stack Developer
+<!--                  VRUSHABH SATHAWARA                      -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrushabhsath-dev22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<!--             PROFESSIONAL GITHUB PROFILE                  -->
 
-<p align="center">
-  <a href="https://github.com/vrushabhsath-dev22">
-    <img src="https://img.shields.io/github/followers/vrushabhsath-dev22?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/vrushabhsath-dev22?tab=repositories">
-    <img src="https://img.shields.io/github/stars/vrushabhsath-dev22?label=Stars&style=for-the-badge" alt="GitHub Stars" />
-  </a>
-</p>
+<!-- ========================================================= -->
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm **Sathawara Vrushabh**
 
-I'm a passionate developer focused on building **reliable, scalable and user-friendly applications**.
+### `Java Developer` • `Spring Boot Developer` • `Full-Stack Developer`
 
-* 🔭 Currently working on **Java & Spring Boot projects**
-* 🌱 Currently learning **Advanced Java, Spring Boot & Backend Development**
-* 💻 Interested in **Web Development, Backend Systems & Database Applications**
-* 🗄️ Experienced with **MySQL and SQL**
-* 🚀 Always learning new technologies and improving my development skills
-* 📫 Reach me at **[sathwaravrushabh@gmail.com](mailto:sathwaravrushabh@gmail.com)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;Building+Scalable+Web+Applications;Backend+%7C+REST+APIs+%7C+MySQL;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
----
+<br>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/vrushabhsath-dev22">
+<img src="https://komarev.com/ghpvc/?username=vrushabhsath-dev22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-### 💻 Programming Languages
+<a href="https://github.com/vrushabhsath-dev22?tab=followers">
+<img src="https://img.shields.io/github/followers/vrushabhsath-dev22?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,php" alt="Programming Languages" />
-</p>
+<a href="https://github.com/vrushabhsath-dev22?tab=repositories">
+<img src="https://img.shields.io/github/stars/vrushabhsath-dev22?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</a>
 
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" alt="Web Technologies" />
-</p>
-
-### ⚙️ Frameworks & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet" alt="Frameworks" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,linux" alt="Database and Tools" />
-</p>
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 About Me
+
+```java
+public class VrushabhSathawara {
+
+    String role = "Java / Spring Boot Developer";
+
+    String[] interests = {
+        "Backend Development",
+        "REST API Development",
+        "Full-Stack Web Applications",
+        "Database Design",
+        "Enterprise Applications"
+    };
+
+    String[] currentlyLearning = {
+        "Advanced Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "Spring Security",
+        "REST APIs"
+    };
+
+    String philosophy =
+        "Learn → Build → Solve → Improve → Repeat";
+}
+```
+
+I'm a passionate developer who enjoys transforming ideas into **clean, functional and scalable software applications**.
+
+My primary focus is **Java and Spring Boot backend development**, while also working with modern web technologies and relational databases.
+
+---
+
+# 🧠 Engineering Focus
+
+<div align="center">
+
+| Area             | Focus                                          |
+| ---------------- | ---------------------------------------------- |
+| ☕ Backend        | Java, Spring Boot, Spring MVC                  |
+| 🔐 Security      | Spring Security, Authentication, Authorization |
+| 🌐 APIs          | REST APIs, HTTP, JSON                          |
+| 🗄️ Database     | MySQL, SQL, JPA, Hibernate                     |
+| 🎨 Frontend      | HTML, CSS, Bootstrap, React                    |
+| 🛠️ Tools        | Git, GitHub, Linux                             |
+| 🏗️ Architecture | MVC, Layered Architecture, CRUD                |
+| 🚀 Development   | Full-Stack & Enterprise Applications           |
+
+</div>
+
+---
+
+# ⚙️ Technology Architecture
 
 ```text
-Java
- ├── Advanced Java
- ├── OOP
- ├── Collections
- └── Exception Handling
-
-Spring Boot
- ├── Spring MVC
- ├── Spring Data JPA
- ├── Spring Security
- └── REST APIs
-
-Database
- ├── MySQL
- ├── SQL
- └── Database Design
+                         ┌─────────────────────────┐
+                         │       USER / CLIENT     │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │      WEB FRONTEND       │
+                         │ HTML • CSS • Bootstrap  │
+                         │ React • Next.js         │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       REST API          │
+                         │      HTTP / JSON        │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+              ┌────────────────────────────────────────────┐
+              │              SPRING BOOT                   │
+              │                                            │
+              │  Controller → Service → Repository         │
+              │                                            │
+              │  Spring MVC                                │
+              │  Spring Security                           │
+              │  Spring Data JPA                           │
+              └────────────────────┬───────────────────────┘
+                                   │
+                                   ▼
+                         ┌─────────────────────────┐
+                         │       HIBERNATE         │
+                         │          JPA            │
+                         └────────────┬────────────┘
+                                      │
+                                      ▼
+                         ┌─────────────────────────┐
+                         │         MYSQL           │
+                         │       DATABASE          │
+                         └─────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Project
+# 🏗️ Backend Development Architecture
 
-### 🧠 ClearMind — Mental Wellness Platform
+```text
+                         CLIENT
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ REST CONTROLLER │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │     SERVICE     │
+                  │ Business Logic  │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   REPOSITORY    │
+                  │   Spring Data   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │    HIBERNATE    │
+                  │      JPA        │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │      MYSQL      │
+                  └─────────────────┘
+```
 
-A web-based mental wellness platform designed to connect **Youth, Parents, Educators, Therapists and Administrators** through a structured digital environment.
+### Development Pattern
 
-**Technology Stack:**
-
-`Java` `Spring Boot` `Spring MVC` `Spring Data JPA` `Spring Security` `MySQL` `JSP` `Bootstrap`
-
-**Key Features:**
-
-* 🔐 Role-based authentication
-* 👨‍🎓 Youth dashboard
-* 👨‍👩‍👦 Parent monitoring
-* 👨‍🏫 Educator resources
-* 🧑‍⚕️ Therapist communication
-* 📅 Therapy appointment management
-* 📚 Educational resources
-* 👤 User profile management
-* 🔑 Password reset & OTP verification
-* 🛡️ Admin management system
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrushabhsath-dev22&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Vrushabh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhsath-dev22&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vrushabhsath-dev22&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vrushabhsath-dev22&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/vrushabhsath-dev22" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/_bhardwaj_vrushabh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
-  </a>
-  <a href="mailto:sathwaravrushabh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email" />
-  </a>
-</p>
+```text
+Request
+   ↓
+Controller
+   ↓
+Validation
+   ↓
+Service
+   ↓
+Business Logic
+   ↓
+Repository
+   ↓
+JPA / Hibernate
+   ↓
+MySQL
+   ↓
+Response
+```
 
 ---
 
-## 📄 Resume
+# 🧠 Featured Project
 
-<p>
-  <a href="https://drive.google.com/file/d/1obFoYNiPq3RjumRtrnrnIu78_WyfE0sA/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
-  </a>
+## ClearMind — Mental Wellness Platform
+
+> A role-based mental wellness platform designed to connect **Youth, Parents, Educators, Therapists and Administrators** through a structured digital environment.
+
+### System Architecture
+
+```text
+                           ┌─────────────────────┐
+                           │      CLEARMIND      │
+                           │   Web Application   │
+                           └──────────┬──────────┘
+                                      │
+        ┌─────────────────────────────┼─────────────────────────────┐
+        │                             │                             │
+        ▼                             ▼                             ▼
+┌───────────────┐             ┌───────────────┐             ┌───────────────┐
+│     YOUTH     │             │     PARENT    │             │   EDUCATOR    │
+│               │             │               │             │               │
+│ Mood          │             │ Monitoring    │             │ Books         │
+│ Journal       │             │ Youth Data    │             │ Videos        │
+│ Assessment    │             │ Reports       │             │ Images        │
+│ Therapist     │             │               │             │ Resources     │
+└───────┬───────┘             └───────┬───────┘             └───────┬───────┘
+        │                             │                             │
+        └─────────────────────────────┼─────────────────────────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │       THERAPIST     │
+                           │                     │
+                           │ Appointments        │
+                           │ Therapy             │
+                           │ Replies             │
+                           │ Communication       │
+                           └──────────┬──────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │       ADMIN         │
+                           │                     │
+                           │ User Management     │
+                           │ Therapist Mgmt      │
+                           │ Resources           │
+                           │ Appointments        │
+                           └──────────┬──────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │      SPRING BOOT    │
+                           │                     │
+                           │ Spring MVC          │
+                           │ Spring Security     │
+                           │ Spring Data JPA     │
+                           └──────────┬──────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │        MYSQL        │
+                           └─────────────────────┘
+```
+
+### Core Modules
+
+```text
+ClearMind
+│
+├── Authentication
+│   ├── Registration
+│   ├── Login
+│   ├── OTP Verification
+│   └── Password Reset
+│
+├── Youth
+│   ├── Dashboard
+│   ├── Mood Tracking
+│   ├── Journaling
+│   ├── Assessments
+│   ├── Therapist Communication
+│   └── Educational Resources
+│
+├── Parent
+│   ├── Youth Monitoring
+│   └── Reports
+│
+├── Educator
+│   ├── Books
+│   ├── Videos
+│   └── Educational Resources
+│
+├── Therapist
+│   ├── Appointments
+│   ├── Therapy
+│   └── Replies
+│
+└── Admin
+    ├── Users
+    ├── Therapists
+    ├── Appointments
+    └── Resources
+```
+
+---
+
+# 🔐 Authentication Flow
+
+```text
+              USER
+                │
+                ▼
+        ┌───────────────┐
+        │    SIGN UP    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ VALIDATE DATA │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ BCrypt Hash   │
+        │   Password    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     MYSQL     │
+        └───────────────┘
+
+LOGIN
+  │
+  ▼
+Email + Password
+  │
+  ▼
+UserRepository
+  │
+  ▼
+BCrypt Verification
+  │
+  ▼
+Role Detection
+  │
+  ├── ADMIN ───────► Admin Dashboard
+  ├── EDUCATOR ────► Educator Dashboard
+  ├── PARENT ──────► Parent Dashboard
+  ├── YOUTH ───────► Youth Dashboard
+  └── THERAPIST ───► Therapist Dashboard
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,php" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,dotnet" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+</p>
+
+### Database & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,linux" />
 </p>
 
 ---
 
-## 💡 Developer Philosophy
+# 📊 GitHub Analytics
 
-> **"Build it. Learn from it. Improve it. Repeat."**
+<div align="center">
 
-I believe consistent learning, practical projects and clean code are the foundation of becoming a better developer.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vrushabhsath-dev22&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhsath-dev22&layout=compact&langs_count=8&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vrushabhsath-dev22&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+# 🏆 GitHub Achievements
 
-<p align="center">
-  <i>Let's build something amazing together.</i>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vrushabhsath-dev22&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+# 📈 Developer Workflow
+
+```text
+        ┌──────────────┐
+        │    IDEA      │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   ANALYZE    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │     CODE     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    TEST      │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │     GIT      │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    DEPLOY    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────────────┘
+               │
+               └──────────────► REPEAT
+```
+
+---
+
+# 🎯 Current Learning Path
+
+```text
+Java
+ │
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── JDBC
+ └── Advanced Java
+       │
+       ▼
+Spring
+ │
+ ├── Spring MVC
+ ├── Spring Boot
+ ├── Spring Data JPA
+ ├── Spring Security
+ └── REST APIs
+       │
+       ▼
+Database
+ │
+ ├── SQL
+ ├── MySQL
+ ├── Database Design
+ └── Hibernate
+       │
+       ▼
+Full-Stack Development
+ │
+ ├── HTML
+ ├── CSS
+ ├── Bootstrap
+ ├── React
+ └── Next.js
+```
+
+---
+
+# 📚 What I Build
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                  SOFTWARE DEVELOPMENT               │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  🌐 Web Applications                                │
+│  🔌 REST APIs                                       │
+│  ☕ Java Applications                                │
+│  🌱 Spring Boot Applications                        │
+│  🗄️ Database-driven Systems                         │
+│  🔐 Authentication & Authorization                  │
+│  📊 Admin Dashboards                                │
+│  👥 Role-based Applications                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📂 Featured Development Areas
+
+| Category             | Technologies                  |
+| -------------------- | ----------------------------- |
+| Backend              | Java, Spring Boot, Spring MVC |
+| Persistence          | JPA, Hibernate, MySQL         |
+| Security             | Spring Security, BCrypt       |
+| Frontend             | HTML5, CSS3, Bootstrap        |
+| JavaScript Ecosystem | React, Next.js                |
+| Programming          | Java, C, C++, PHP             |
+| Version Control      | Git, GitHub                   |
+| OS                   | Linux                         |
+
+---
+
+# 💼 Professional Strengths
+
+* Clean and structured backend development
+* Object-oriented programming
+* Database-driven application development
+* REST API development
+* MVC architecture
+* CRUD application development
+* Authentication and authorization
+* Role-based access control
+* MySQL database integration
+* Full-stack application development
+* Problem solving and debugging
+* Continuous learning
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1obFoYNiPq3RjumRtrnrnIu78_WyfE0sA/view?usp=drive_link">
+<img src="https://img.shields.io/badge/VIEW%20MY%20RESUME-0E75B6?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vrushabhsath-dev22">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+  
+
+<a href="https://instagram.com/_bhardwaj_vrushabh">
+<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+</a>
+
+  
+
+<a href="mailto:sathwaravrushabh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
+<br><br>
+
+📧 **[sathwaravrushabh@gmail.com](mailto:sathwaravrushabh@gmail.com)**
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+### **"Don't just write code. Build solutions."**
+
+<br>
+
+`Think` → `Design` → `Develop` → `Test` → `Deploy` → `Improve`
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer"/>
+
+</div>
